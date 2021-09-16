@@ -1,0 +1,29 @@
+{
+  "name": "@wallaces/tools",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "keywords": [
+    "fixed",
+    "tools"
+  ],
+  "author": "PS-1\\Admin <wy>",
+  "homepage": "",
+  "license": "ISC",
+  "module": "es/index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist",
+    "lib",
+    "es",
+    "package.json",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
