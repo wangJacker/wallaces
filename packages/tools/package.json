@@ -23,6 +23,9 @@
     "package.json",
     "README.md"
   ],
+  "authors": [
+    "jackerWang <wangjacker@163.com> (https://github.com/wangJacker)"
+  ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   }
